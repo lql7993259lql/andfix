@@ -1,0 +1,6 @@
+https://github.com/alibaba/AndFix
+
+https://www.aliyun.com/jiaocheng/24762.html
+
+apkpatch.bat -f new.apk -t old.apk -o out -k jiaxiang.jks -p lql7993259 -
+a jiaxiang -e lql7993259
